@@ -1,0 +1,6 @@
+#1° Receber URL e executar no navegador
+#2° Detectar os headings da página
+#2° Tratar conteúdo recebido
+#3° Fazer conecção da API do whatsapp
+#4° Executar
+#LC20lb MBeuO DKV0Md
